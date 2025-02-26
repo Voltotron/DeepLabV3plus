@@ -1,14 +1,14 @@
 absl-py==2.1.0
-albumentations==2.0.3
+albumentations
 numpy==2.0.1
 opencv-python==4.11.0.86
 pandas==2.2.3
 pillow==11.1.0
-matplotlib==3.10.0
+matplotlib
 torch==2.5.1+cu121
 torchvision==0.20.1+cu121
 torchmetrics==1.6.1
-tqdm==4.66.1
+tqdm
 scipy==1.15.1
 shutil
 argparse
